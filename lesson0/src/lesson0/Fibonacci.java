@@ -1,4 +1,4 @@
-package com.company.GeekHub.HomeTask.Task1;
+package lesson0;
 
 /**
  * Created by USER on 07.10.2015.

@@ -1,4 +1,4 @@
-package com.company.GeekHub.HomeTask.Task1;
+package lesson0;
 
 import java.util.HashMap;
 import java.util.Map;
